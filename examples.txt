@@ -1,0 +1,27 @@
+
+//  tft.setTextColor(ILI9341_GREEN, ILI9341_BLACK); 
+//  tft.println(menu[0]);
+//
+//  tft.drawLine(0, 15, tft.width()-1, 15, ILI9341_GREEN);
+//  
+//  tft.setTextColor(ILI9341_YELLOW, ILI9341_BLACK);  
+//  for(i=1;i<=numMenu;i++)
+//  {
+//     tft.setCursor(0, ((i-1)*12)+menu_top);    
+//     tft.println(menu[i]);
+//  }  
+
+  
+  // Highlight a selected menu item
+  char i;
+  
+  // Remove highlight of current item
+//  tft.setCursor(0, ((menu_select-1)*12)+menu_top);
+//  tft.setTextColor(ILI9341_YELLOW, ILI9341_BLACK); 
+//  tft.println(menu[menu_select]); 
+//  // Highlight new menu item
+//  tft.setCursor(0, ((menuitem-1)*12)+menu_top);
+//  tft.setTextColor(ILI9341_RED, ILI9341_PURPLE); 
+//  tft.println(menu[menuitem]);
+//  // change menu_select to new item  
+//  menu_select=menuitem;
